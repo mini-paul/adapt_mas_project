@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-deepseek
+networkx
+python-louvain
+pandas
+matplotlib
+jupyterlab
